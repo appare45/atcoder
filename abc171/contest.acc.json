@@ -9,7 +9,12 @@
       "id": "abc171_a",
       "label": "A",
       "title": "αlphabet",
-      "url": "https://atcoder.jp/contests/abc171/tasks/abc171_a"
+      "url": "https://atcoder.jp/contests/abc171/tasks/abc171_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "src/main.rs"
+      }
     },
     {
       "id": "abc171_b",
